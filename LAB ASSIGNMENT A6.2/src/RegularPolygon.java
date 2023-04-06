@@ -57,7 +57,7 @@ class RegularPolygon{
         }
 
      /**
-      * 
+      *
       * @return Returns the number of sides of the shape
       */
      public int getNumSide () {
